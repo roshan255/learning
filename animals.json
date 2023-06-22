@@ -1,0 +1,26 @@
+[
+    {
+        "name":"showbell",
+        "species":"cat",
+        "food":{
+            "likes":["tuna","catnip"],
+            "dislikes":["ham","zucchini"]
+        }
+    },
+    {
+        "name":"barky",
+        "species":"dog",
+        "food":{
+            "likes":["bones","carrots"],
+            "dislikes":["tuna"]
+        }
+    },
+    {
+        "name":"purrpaws",
+        "species":"cat",
+        "food":{
+            "likes":["mice"],
+            "dislikes":["cookies"]
+        }
+    }
+]
